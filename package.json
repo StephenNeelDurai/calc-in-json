@@ -1,0 +1,45 @@
+{
+  "_from": "calc-in-json",
+  "_id": "calc-in-json@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-u2RJlMWEW8wUQ0RpO9I5dwEzMMZBOyHuPahQHKzjvqSdvwLsfQRpZIz7CgA+OekpgDM6Czd8Xlqtn6Uk7abKlw==",
+  "_location": "/calc-in-json",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "calc-in-json",
+    "name": "calc-in-json",
+    "escapedName": "calc-in-json",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/calc-in-json/-/calc-in-json-2.0.0.tgz",
+  "_shasum": "fdebfcb7c71b1903db240e89e76d8bd0e509e9e2",
+  "_spec": "calc-in-json",
+  "_where": "/home/neel/WebstormProjects/test",
+  "author": {
+    "name": "neelstephen",
+    "email": "leadsstephen@gmail.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Doing Calculation and Creating as a new key in json.",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "calc-in-json",
+  "scripts": {
+    "prepare": "npm test",
+    "test": "node index.test.js"
+  },
+  "version": "2.0.0"
+}
